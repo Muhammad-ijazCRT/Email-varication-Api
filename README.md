@@ -1,4 +1,4 @@
-# Email-varication-Api
+# Email-varication-Api :ok_hand:
 There are many website ehcih provide API's for Email varication. This website is one of them... it priovide 1,000 email varifaction for free, just signup and get 1,000 free email varification...
 
 ### website URL:
