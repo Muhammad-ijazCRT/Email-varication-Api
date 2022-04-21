@@ -10,7 +10,7 @@ https://youtu.be/4-JkmUGCV1w
 
 
 
-## For detail and usage:
+## For Detail and Usage:
 
 python-email-verifier
 ===================
