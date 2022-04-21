@@ -57,6 +57,7 @@ Usage
 Once you have `email-verified` installed, you can use it to easily verify any
 email address.
 
+### Now copy the code and enjoy it :apple:
 
 .. code-block:: python
 
